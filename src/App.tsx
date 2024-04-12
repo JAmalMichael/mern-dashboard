@@ -8,7 +8,7 @@ import { DevtoolsPanel, DevtoolsProvider } from "@refinedev/devtools";
 import { RefineKbar, RefineKbarProvider } from "@refinedev/kbar";
 
 import {
-  ErrorComponent,
+  ErrorComponent, ss
   notificationProvider,
   RefineSnackbarProvider,
   ThemedLayoutV2,
